@@ -42,7 +42,7 @@ nb-configuration.xml
 out/
 
 # 1BRC
-/measurements*.txt
+
 /*.out
 out_expected.txt
-/starrocks/Star*
+/Star*
